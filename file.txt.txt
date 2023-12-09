@@ -2,5 +2,8 @@ this is paragraph
 this is extra paragraph
 this new file 
 this is add file
+<<<<<<< HEAD
 this is new add file 
+=======
+>>>>>>> featureCharlie
 
